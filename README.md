@@ -28,6 +28,15 @@ An elegant and user-friendly flower shop website that provides a seamless shoppi
 2. Start your server and access the website at:  
    `http://localhost/flower`.
 
+## Default Login Credentials
+Use the following accounts to test the different user roles:
+
+| Role | Name | Email | Password |
+| :--- | :--- | :--- | :--- |
+| **Admin** | admin A | `admin01@gmail.com` | `123` |
+| **Staff** | staff A | `staff01@gmail.com` | `123456` |
+| **User** | user A | `user01@gmail.com` | `123` |
+
 ## Demo  
   
 https://youtu.be/a0mwcZBE-f8
@@ -43,20 +52,10 @@ https://youtu.be/a0mwcZBE-f8
 ![image](https://github.com/user-attachments/assets/a7fd7fbf-a4a6-400c-9391-d2e4cb825e73)
 ![image](https://github.com/user-attachments/assets/74cb14bb-6a6a-4a35-ba94-2ba59f7ba174)
 
-
-
-
-
-
-
-
- 
-
 ## Future Enhancements  
 - **Mobile App Integration**: Develop native apps for Android and iOS.  
 - **Enhanced Analytics**: Add detailed reporting features for administrators.  
 - **AI-Powered Recommendations**: Suggest products based on user preferences.
-
 
 ## Acknowledgments  
 - **Inspiration**: Floral e-commerce platforms.  
