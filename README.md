@@ -37,10 +37,6 @@ Use the following accounts to test the different user roles:
 | **Staff** | staff A | `staff01@gmail.com` | `123456` |
 | **User** | user A | `user01@gmail.com` | `123` |
 
-## Demo  
-  
-https://youtu.be/a0mwcZBE-f8
-
 ## Screenshots  
 ![image](https://github.com/user-attachments/assets/09629164-8051-463b-8a03-480852430f77)
 ![image](https://github.com/user-attachments/assets/b7687a99-6067-4680-842a-f09044e54fad)
