@@ -1,5 +1,5 @@
 # Blossom 🌸  
-An elegant and user-friendly flower shop website that provides a seamless shopping experience. Built with HTML, CSS, JavaScript, PHP, and MySQL, Floral Fables offers features like product filtering, wishlist management, secure checkout, and order tracking.
+An elegant and user-friendly flower shop website that provides a seamless shopping experience. Built with HTML, CSS, JavaScript, PHP, and MySQL, Blossom offers features like product filtering, wishlist management, secure checkout, and order tracking.
 
 ## Features  
 - **Search and Filter Products**: Find flowers easily using keywords or filters like price and availability.  
