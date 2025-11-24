@@ -54,9 +54,5 @@ Use the following accounts to test the different user roles:
 - **AI-Powered Recommendations**: Suggest products based on user preferences.
 
 ## Acknowledgments  
-- **Inspiration**: Floral e-commerce platforms.  
+- **Inspiration**: Blossom e-commerce platforms.  
 - **Tools and Technologies**: PHP, MySQL, and modern web development libraries.  
-
-## Contact  
-Developed by Syeda Mohmima(https://github.com/syedamohmima).  
-Feel free to reach out at syedamohmima@gmail.com.
