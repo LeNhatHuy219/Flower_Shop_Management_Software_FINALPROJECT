@@ -7,7 +7,7 @@ An elegant and user-friendly flower shop website that provides a seamless shoppi
 | **NGÔ GIA BẢO** | 523H0120 |
 | **LÊ NHẬT HUY** | 523H0138 |
 | **HUỲNH MẠNH PHÁT** | 523H0167 |
-| **PHẠM NGUYỄN THÀNH PHONG** | 523H0169 |
+| **PHẠM NGUYỄN THANH PHONG** | 523H0169 |
 
 ## Features  
 - **Search and Filter Products**: Find flowers easily using keywords or filters like price and availability.  
