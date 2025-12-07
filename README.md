@@ -45,19 +45,6 @@ Use the following accounts to test the different user roles:
 | **Staff** | staff A | `staff01@gmail.com` | `123456` |
 | **User** | user A | `user01@gmail.com` | `123` |
 
-
-## Screenshots  
-*(Sample UI Screenshots)*  
-![image](https://github.com/user-attachments/assets/09629164-8051-463b-8a03-480852430f77)
-![image](https://github.com/user-attachments/assets/b7687a99-6067-4680-842a-f09044e54fad)
-![image](https://github.com/user-attachments/assets/a88c745a-5979-4c3b-8217-6f9d470350e3)
-![image](https://github.com/user-attachments/assets/f62efa7f-4dd0-451e-9050-5728b67109df)
-![image](https://github.com/user-attachments/assets/3bea227b-5412-44e2-9172-9d3f010199a8)
-![image](https://github.com/user-attachments/assets/cfea78c7-b287-446b-a543-1a25322ebe0a)
-![image](https://github.com/user-attachments/assets/2a4818e6-6129-42c3-8bee-da8cee1fc824)
-![image](https://github.com/user-attachments/assets/a7fd7fbf-a4a6-400c-9391-d2e4cb825e73)
-![image](https://github.com/user-attachments/assets/74cb14bb-6a6a-4a35-ba94-2ba59f7ba174)
-
 ## Future Enhancements  
 - **Mobile App Integration**: Develop native apps for Android and iOS.  
 - **Enhanced Analytics**: Add detailed reporting features for administrators.  
