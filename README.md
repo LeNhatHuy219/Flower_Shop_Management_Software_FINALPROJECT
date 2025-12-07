@@ -1,6 +1,14 @@
 # Blossom 🌸  
 An elegant and user-friendly flower shop website that provides a seamless shopping experience. Built with HTML, CSS, JavaScript, PHP, and MySQL, Blossom offers features like product filtering, wishlist management, secure checkout, and order tracking.
 
+## 👥 Team Members 
+| Name | Student ID |
+| :--- | :--- |
+| **NGÔ GIA BẢO** | 523H0120 |
+| **LÊ NHẬT HUY** | 523H0138 |
+| **HUỲNH MẠNH PHÁT** | 523H0167 |
+| **PHẠM NGUYỄN THÀNH PHONG** | 523H0169 |
+
 ## Features  
 - **Search and Filter Products**: Find flowers easily using keywords or filters like price and availability.  
 - **Wishlist Management**: Save favorite items for future purchases.  
@@ -37,7 +45,9 @@ Use the following accounts to test the different user roles:
 | **Staff** | staff A | `staff01@gmail.com` | `123456` |
 | **User** | user A | `user01@gmail.com` | `123` |
 
+
 ## Screenshots  
+*(Sample UI Screenshots)*  
 ![image](https://github.com/user-attachments/assets/09629164-8051-463b-8a03-480852430f77)
 ![image](https://github.com/user-attachments/assets/b7687a99-6067-4680-842a-f09044e54fad)
 ![image](https://github.com/user-attachments/assets/a88c745a-5979-4c3b-8217-6f9d470350e3)
@@ -54,5 +64,5 @@ Use the following accounts to test the different user roles:
 - **AI-Powered Recommendations**: Suggest products based on user preferences.
 
 ## Acknowledgments  
-- **Inspiration**: Blossom e-commerce platforms.  
-- **Tools and Technologies**: PHP, MySQL, and modern web development libraries.  
+- **Inspiration**: E-commerce flower platforms.  
+- **Tools and Technologies**: PHP, MySQL, and modern web development libraries.
